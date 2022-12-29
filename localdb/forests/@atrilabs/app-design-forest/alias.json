@@ -1,0 +1,15 @@
+{
+  "Flex": 77,
+  "Div": 73,
+  "TextBox": 176,
+  "Button": 4,
+  "Image": 17,
+  "Link": 18,
+  "Icon": 16,
+  "Radio": 1,
+  "Accordion": 4,
+  "Carousel": 3,
+  "Table": 1,
+  "Menu": 1,
+  "Dropdown": 2
+}
