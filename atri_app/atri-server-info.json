@@ -1,13 +1,15 @@
 {
-  "port": 4005,
-  "pythonPort": 4007,
-  "publicDir": "dist/app",
-  "pages": {
-    "/": {
-      "name": "Home"
-    }
-  },
-  "publicUrlAssetMap": {
-    "/app-assets": "..\\assets"
-  }
+	"port": 4005,
+	"pythonPort": 4007,
+	"publicDir": "dist/app",
+	"pages": {
+		"/": {
+			"name": "Home"
+		}
+	},
+	"publicUrlAssetMap": {
+		"/app-assets": "..\\assets"
+	},
+	"organizationName": "roughking07",
+	"projectName": "atri-internship"
 }
